@@ -34,6 +34,7 @@ For more advanced webpacking, check out this cool book: https://survivejs.com/we
    rm -rf .git
    git init
    git add . 
+   git status
    git commit -m "Initial commit"
    git remote add origin git@github.com:yourname/your-repo.git 
    git push origin master
