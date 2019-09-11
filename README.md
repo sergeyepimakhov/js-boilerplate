@@ -31,6 +31,7 @@ For more advanced webpacking, check out this cool book: https://survivejs.com/we
 1. Delete the boilerplate's git history
 
    ```
+   rm -rf .git
    git init
    git add . 
    git commit -m "Initial commit"
